@@ -1,0 +1,12 @@
+co\com\gm\dao\AlumnoDao.class
+co\com\gm\dao\CursoDao.class
+co\com\gm\domain\Asignacion.class
+co\com\gm\dao\GenericDao.class
+co\com\gm\test\TestDAOs.class
+co\com\gm\dao\AsignacionDao.class
+co\com\gm\dao\DomicilioDao.class
+co\com\gm\domain\Contacto.class
+co\com\gm\dao\ContactoDao.class
+co\com\gm\domain\Curso.class
+co\com\gm\domain\Domicilio.class
+co\com\gm\domain\Alumno.class

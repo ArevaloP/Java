@@ -1,0 +1,5 @@
+co\com\gm\sga\cliente\ClientePersonaService.class
+co\com\gm\sga\domain\Persona.class
+SgaJee.class
+co\com\gm\sga\services\PersonaServiceImpl.class
+co\com\gm\sga\services\PersonaServiceRemote.class

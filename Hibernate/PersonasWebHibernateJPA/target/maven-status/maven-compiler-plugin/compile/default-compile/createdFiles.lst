@@ -1,0 +1,4 @@
+co\com\gm\domain\Persona.class
+co\com\gm\web\ServletControlador.class
+co\com\gm\dao\PersonaDao.class
+co\com\gm\servicio\ServicioPersona.class
